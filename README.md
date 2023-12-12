@@ -99,6 +99,8 @@
 
 - **[Text Base64 Encode/Decode](https://fictos.com/text-base64-encode-decode):** Encode or decode text to/from Base64.
 
+- **[Base64 to CSV Converter<](https://fictos.com/base64-to-csv):** Convert Base64 data to CSV.
+
 - **[Add Prefix/Suffix to Lines](https://fictos.com/add-prefix-suffix-to-lines):** Add prefixes or suffixes to each line of text.
 
 - **[Sort Ascending/Descending](https://fictos.com/sort-ascending-descending):** Sort lines of text in ascending or descending order.
