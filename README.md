@@ -301,6 +301,8 @@
 
 - **[Find My IP](https://fictos.com/find-my-ip):** Find your public IP address.
 
+- **[Voice to Text](https://fictos.com/voice-to-text):** Record voice to text notes.
+
 - **[Voice Recorder](https://fictos.com/voice-recorder):** Record audio using the online voice recorder.
 
 - **[Video Recorder](https://fictos.com/video-recorder):** Record videos using the online video recorder.
