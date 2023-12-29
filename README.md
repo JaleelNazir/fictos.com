@@ -70,6 +70,8 @@
 
 - **[Random UUID and GUID Generator](https://fictos.com/random-uuid-and-guid-generator):** Generate random UUID and GUID.
 
+- **[Random Emoji Generator](https://fictos.com/random-emoji-generator):** Generate random Emoji.
+
 ## Date and Time Utilities
 - **[Epoch/Unix Time Converter](https://fictos.com/epoch-unix-time):** Convert Epoch/Unix time.
 
