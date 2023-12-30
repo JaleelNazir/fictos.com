@@ -305,6 +305,8 @@
 
 - **[Voice to Text](https://fictos.com/voice-to-text):** Record voice to text notes.
 
+- **[Text to Voice](https://fictos.com/text-to-voice):** Text to Voice (TTS).
+
 - **[Voice Recorder](https://fictos.com/voice-recorder):** Record audio using the online voice recorder.
 
 - **[Video Recorder](https://fictos.com/video-recorder):** Record videos using the online video recorder.
